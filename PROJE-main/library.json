@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Candide",
+        "author": "Voltaire",
+        "isbn": "OL37044428M"
+    },
+    {
+        "title": "Peter Pan (version 2)",
+        "author": "Bilinmeyen Yazar",
+        "isbn": "OL58198592M"
+    },
+    {
+        "title": "The Ikigai Journey",
+        "author": "Hector Garcia - undifferentiated",
+        "isbn": "9784805315996"
+    },
+    {
+        "title": "Journey to the Center of the Earth",
+        "author": "Jules Verne",
+        "isbn": "OL37044653M"
+    },
+    {
+        "title": "The Tempest",
+        "author": "William Shakespeare",
+        "isbn": "OL37044441M"
+    },
+    {
+        "title": "Ulysses",
+        "author": "Bilinmeyen Yazar",
+        "isbn": "OL32052602M"
+    }
+]
